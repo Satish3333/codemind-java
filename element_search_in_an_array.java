@@ -5,7 +5,6 @@ class main
     {
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();
-        
         int [] l=new int[50];
         for(int i=0;i<n;i++){
             l[i]=s.nextInt();
